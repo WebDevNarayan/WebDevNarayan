@@ -8,5 +8,9 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,vite,firebase,nodejs,express,mongodb,git,github,gitlab)](https://skillicons.dev)
 ---
 
-[ambient_gradient]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient
-[ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevnarayan&show_icons=true&locale=en&layout=compact" alt="webdevnarayan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevnarayan&show_icons=true&locale=en" alt="webdevnarayan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevnarayan&" alt="webdevnarayan" /></p>
+
