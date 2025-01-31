@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my side projects.
-- 🌱 I’m currently learning everything.
+- 🔭 I’m currently working
+- 🌱 I’m learning everything.
 - 🤔 I’m looking for help with my projects.
 
 ## Languages & Tools
